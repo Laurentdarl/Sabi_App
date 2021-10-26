@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "813752976630",
+    "project_id": "sabi-app-d4dd6",
+    "storage_bucket": "sabi-app-d4dd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813752976630:android:6b64783401745f359f58d7",
+        "android_client_info": {
+          "package_name": "com.laurentdarl.sabiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813752976630-7skr1a6sfqqpcrmengdpqql594ivovc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8jgKCeuCg3fH0ppYunB0DhCIjjIU5XWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813752976630-7skr1a6sfqqpcrmengdpqql594ivovc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
